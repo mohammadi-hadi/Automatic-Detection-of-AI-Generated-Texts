@@ -4,6 +4,7 @@
 
 ### Multi-Model Ensemble for Detecting Machine-Generated Content
 
+[![CLIN Journal](https://img.shields.io/badge/CLIN%20Journal-Article%20182-blue.svg)](https://clinjournal.org/clinj/article/view/182)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-red.svg)](https://pytorch.org/)
@@ -14,6 +15,16 @@
 ---
 
 </div>
+
+## Paper
+
+**Title:** Automatic Detection of AI-Generated Texts
+
+**Authors:** Hadi Mohammadi, Anastasia Giachanou, Ayoub Bagheri
+
+**Published in:** Computational Linguistics in the Netherlands Journal (CLIN)
+
+**Link:** [https://clinjournal.org/clinj/article/view/182](https://clinjournal.org/clinj/article/view/182)
 
 ## Overview
 
@@ -110,6 +121,18 @@ Automatic-Detection-of-AI-Generated-Texts/
 - Transformers 4.0+
 - pandas
 - scikit-learn
+
+## Citation
+
+```bibtex
+@article{mohammadi2024aigentexts,
+  title={Automatic Detection of AI-Generated Texts},
+  author={Mohammadi, Hadi and Giachanou, Anastasia and Bagheri, Ayoub},
+  journal={Computational Linguistics in the Netherlands Journal},
+  year={2024},
+  url={https://clinjournal.org/clinj/article/view/182}
+}
+```
 
 ## License
 
