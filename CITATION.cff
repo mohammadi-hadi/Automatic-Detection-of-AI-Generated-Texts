@@ -7,6 +7,7 @@ repository-code: "https://github.com/mohammadi-hadi/Automatic-Detection-of-AI-Ge
 authors:
   - family-names: "Mohammadi"
     given-names: "Hadi"
+    orcid: "https://orcid.org/0000-0003-0860-9200"
     affiliation: "Utrecht University"
   - family-names: "Giachanou"
     given-names: "Anastasia"
@@ -36,6 +37,8 @@ preferred-citation:
       given-names: "Savvas"
     - family-names: "Mohammadi"
       given-names: "Hadi"
+      orcid: "https://orcid.org/0000-0003-0860-9200"
+      affiliation: "Utrecht University"
     - family-names: "Giachanou"
       given-names: "Anastasia"
     - family-names: "Bagheri"
