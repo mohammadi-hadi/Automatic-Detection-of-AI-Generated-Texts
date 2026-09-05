@@ -17,7 +17,7 @@
 | **Venue**        | Computational Linguistics in the Netherlands Journal, Vol. 13, 2024, pp. 233–259 |
 | **Link**         | [clinjournal.org/clinj/article/view/182](https://clinjournal.org/clinj/article/view/182) |
 
-> This repository contains the **contestant model of the Utrecht University team** (Hadi Mohammadi, Anastasia Giachanou, Ayoub Bagheri) for the CLIN33 shared task; the article above is the shared-task overview describing the task and participating systems.
+> This repository contains the **contestant model of the Utrecht University team** (Hadi Mohammadi, Anastasia Giachanou, Robert A. Bagheri) for the CLIN33 shared task; the article above is the shared-task overview describing the task and participating systems.
 
 ## Abstract
 
